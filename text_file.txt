@@ -1,4 +1,8 @@
 this is the text
 overriding the file
 2nd overriding
+<<<<<<< HEAD
 This belongs to master branch
+=======
+Third time overriding
+>>>>>>> mybranch
